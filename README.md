@@ -41,6 +41,7 @@
 ## 📫 Contato
 
 - **Marcel Fadel Nagm**
+- LinkedIn: [Marcel Fadel Nagm](https://www.linkedin.com/in/marcel-nagm)
 - GitHub: [@marcelnagm](https://github.com/marcelnagm)
 
 ---
