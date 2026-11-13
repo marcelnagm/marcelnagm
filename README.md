@@ -1,5 +1,7 @@
 # Olá, eu sou o Marcel 👋
 
+### Marcel Fadel Nagm · Desenvolvedor Full Stack PHP / React
+
 **Desenvolvedor Full Stack** (PHP e JavaScript/React). Construo sistemas web, APIs e aplicativos móveis, do banco de dados à interface, e já levei projetos de ponta a ponta até produção, com Docker, filas e integrações.
 
 ## 🛠️ Tecnologias
@@ -38,6 +40,7 @@
 
 ## 📫 Contato
 
+- **Marcel Fadel Nagm**
 - GitHub: [@marcelnagm](https://github.com/marcelnagm)
 
 ---
