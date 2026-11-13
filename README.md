@@ -1,18 +1,29 @@
 # Olá, eu sou o Marcel 👋
 
-### Marcel Fadel Nagm · Desenvolvedor Full Stack PHP / React
+### Marcel Fadel Nagm · Senior Backend & Full Stack Developer
 
-**Desenvolvedor Full Stack** (PHP e JavaScript/React). Construo sistemas web, APIs e aplicativos móveis, do banco de dados à interface, e já levei projetos de ponta a ponta até produção, com Docker, filas e integrações.
+📍 Boa Vista, Roraima, Brasil · 🌎 Aberto a oportunidades **remotas** em engenharia de software, back-end, full stack e plataforma
+
+Desenvolvedor back-end e full stack com base sólida em **PHP/Laravel** e experiência em **Node.js**, microsserviços, bancos de dados, infraestrutura em nuvem, automação e integrações de API. Construo sistemas práticos: desde mensageria corporativa e atendimento assistido por IA até integrações com criptomoedas, ferramentas de dados LDAP, realidade virtual para treinamento e automação em Raspberry Pi.
 
 ## 🛠️ Tecnologias
 
-**Back-end:** PHP (Laravel, Lumen, Symfony, Slim) · Node.js (Express, NestJS, LoopBack, tRPC) · Python
+| Área | Tecnologias |
+|---|---|
+| **Back-end** | PHP, Laravel, Node.js, JavaScript, TypeScript, APIs REST, microsserviços |
+| **Dados e integração** | Bancos SQL, Eloquent ORM, OpenLDAP/LDIF, integração com APIs de terceiros, Binance API |
+| **Nuvem e DevOps** | AWS, Docker, Linux, Ansible, Vagrant, infraestrutura Azure, Git/GitHub |
+| **Automação e IA** | Automação de WhatsApp, agentes de IA, integração com Groq, processamento em filas, scripts |
+| **Outras** | Python, Java, C/C++, Kotlin, WordPress, Raspberry Pi, realidade virtual |
 
-**Front-end e mobile:** React Native / Expo · TypeScript · JavaScript · Webpack · Flutter
+Também trabalhei com Symfony, Lumen, NestJS, React Native/Expo, Flutter, Redis, RabbitMQ, MongoDB e PostgreSQL nos projetos abaixo.
 
-**Dados e infraestrutura:** MySQL · PostgreSQL · MongoDB · Redis · RabbitMQ · Docker / Docker Compose · Nginx · Supervisor · AWS (SES, SQS, SSM)
+## 🎯 Foco profissional
 
-**Integrações:** WhatsApp (Evolution API), APIs de IA (OpenAI, Claude, Gemini, Groq), Binance, Facebook Graph, Twitter
+- Projetar e manter serviços back-end com PHP/Laravel e Node.js
+- Criar integrações confiáveis entre sistemas de negócio, APIs de terceiros, plataformas de mensagens e bancos de dados
+- Aplicar contêineres, administração Linux, automação e infraestrutura como código ao fluxo de desenvolvimento
+- Explorar produtos com IA, APIs de ferramentas para agentes, tecnologia acessível e soluções open source práticas
 
 ## ⭐ Projetos em destaque
 
@@ -38,16 +49,24 @@
 - [myframework](https://github.com/marcelnagm/myframework): framework PHP simples inspirado no Laravel
 - [url-checker](https://github.com/marcelnagm/url-checker): verificador de links quebrados em Python
 
+## 🎓 Formação complementar e certificações
+
+Ansible: Infrastructure as Code · Docker: Creating Containers · Linux I e II · Vagrant · Git e GitHub · IPv6 · Open Source + Azure Cloud Infrastructure · Administração Moodle · Treinamento Laravel/PHP
+
+## 📄 Publicação e projeto acadêmico
+
+**Laboratório Virtual para Treinamento no Uso de Equipamentos de Captura de Sinais Biomédicos** ([BioVRML3d](https://github.com/marcelnagm/biovrml3d)): ambiente de realidade virtual não imersiva para treinamento no uso de equipamento de ECG, apresentado na IX Semana Nacional de Ciência e Tecnologia em Roraima e no Workshop de Realidade Virtual e Aumentada.
+
 ## 🏅 Reconhecimentos
 
 - **Tech Expert no [PeerSpot](https://www.peerspot.com)** (outubro de 2026): reconhecido por publicar uma avaliação de uma solução de *Log Management*.
 
+## 🌐 Idiomas
+
+Português (nativo) · Inglês (nativo/bilíngue) · Árabe (elementar)
+
 ## 📫 Contato
 
 - **Marcel Fadel Nagm**
-- LinkedIn: [Marcel Fadel Nagm](https://www.linkedin.com/in/marcel-nagm)
+- LinkedIn: [linkedin.com/in/marcel-nagm](https://www.linkedin.com/in/marcel-nagm)
 - GitHub: [@marcelnagm](https://github.com/marcelnagm)
-
----
-
-<sub>Procurando uma vaga como Full Stack PHP/React? Vamos conversar.</sub>
