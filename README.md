@@ -38,6 +38,10 @@
 - [myframework](https://github.com/marcelnagm/myframework): framework PHP simples inspirado no Laravel
 - [url-checker](https://github.com/marcelnagm/url-checker): verificador de links quebrados em Python
 
+## 🏅 Reconhecimentos
+
+- **Tech Expert no [PeerSpot](https://www.peerspot.com)** (outubro de 2026): reconhecido por publicar uma avaliação de uma solução de *Log Management*.
+
 ## 📫 Contato
 
 - **Marcel Fadel Nagm**
